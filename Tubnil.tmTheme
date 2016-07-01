@@ -25,6 +25,11 @@
 				<string>#ba44e76d</string>
 				<key>selectionBorder</key>
 				<string>#c862e687</string>
+
+				<key>activeGuide</key>
+				<string>#00D2E5</string>
+				<key>stackGuide</key>
+				<string>#00D2E57F</string>
 			</dict>
 		</dict>
 		<dict>
